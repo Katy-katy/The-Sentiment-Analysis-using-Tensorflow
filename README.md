@@ -31,3 +31,5 @@ Epoch 9 completed out of 10 loss: 21017.0309887
 Epoch 10 completed out of 10 loss: 19652.573164
 
 Accuracy: 0.60788
+
+I tried different number of nodes and layers, but the result was about the same. I think, the accuracy is so low since I used a very small dataset and it is critical for neural network to have a lot of data.
